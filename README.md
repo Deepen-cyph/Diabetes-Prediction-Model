@@ -24,6 +24,9 @@ Training Set Confusion Matrix:
 The model performed nearly perfectly on the training data, with 1044 true negatives and 555 true positives, and only 1 false negative. The absence of false positives highlights the model's high accuracy.
 
 The overall accuracy achieved on the test set was 98.75%, and the training set accuracy was 99.94%, showing excellent performance with minimal overfitting.
+
+
+
 ![image](https://github.com/user-attachments/assets/d8d4aab7-9e93-4d38-a043-13070591ab55)
 
 ![image](https://github.com/user-attachments/assets/22f9a12d-782d-405c-a6bb-2ad4566f2262)
