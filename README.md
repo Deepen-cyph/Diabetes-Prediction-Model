@@ -11,7 +11,7 @@ This bar plot illustrates the distribution of diabetes outcomes within the datas
 The dataset contained several invalid zero values in key features like Glucose, BloodPressure, SkinThickness, Insulin, and BMI. Since these medical measurements cannot be zero, these values were replaced with `NaN` to mark them as missing data. To handle the missing data, we analyzed the distribution of each feature through histograms. Based on this analysis, we filled missing values using statistical measures: the mean was used for Glucose and BloodPressure, while the median was used for SkinThickness, Insulin, and BMI, as their distributions were skewed. This process ensured the dataset was clean and ready for further analysis and modeling.
 
 
-![image](https://github.com/user-attachments/assets/63c61e45-253d-457c-b472-cbbbb3e97df4)
+![image](https://github.com/user-attachments/assets/01243ae1-5451-47f2-93ee-7519c98411a0)
 
 ## Model Performance Evaluation
 
